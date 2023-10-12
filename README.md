@@ -17,7 +17,7 @@ Este repositório contém a modelagem de banco de dados utilizados no desenvolvi
 
 <img src="https://github.com/kelvin-hey/banco-de-dados-loja-de-games/blob/main/tabela_clientes.png"></a>
 
-#### Tabela Empréstimos
+#### Tabela Funcionários
 
 <img src="https://github.com/kelvin-hey/banco-de-dados-loja-de-games/blob/main/tabela_funcionarios.png"></a>
 
@@ -31,11 +31,11 @@ Este repositório contém a modelagem de banco de dados utilizados no desenvolvi
 
 #### Tabela Jogos
 
-<img src="https://github.com/kelvin-hey/banco-de-dados-loja-de-games/blob/main/tabela_emprestimo.png"></a>
+<img src="https://github.com/kelvin-hey/banco-de-dados-loja-de-games/blob/main/tabela_jogos.png"></a>
 
 #### Tabela Empréstimos
 
-<img src="https://github.com/kelvin-hey/banco-de-dados-loja-de-games/blob/main/tabela_funcionarios.png"></a>
+<img src="https://github.com/kelvin-hey/banco-de-dados-loja-de-games/blob/main/tabela_emprestimo.png"></a>
 
 #### Tabela Manutenção
 
