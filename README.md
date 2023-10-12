@@ -44,3 +44,21 @@ Este repositório contém a modelagem de banco de dados utilizados no desenvolvi
 #### Tabela Periféricos
 
 <img src="https://github.com/kelvin-hey/banco-de-dados-loja-de-games/blob/main/tabela_perifericos.png"></a>
+
+### Tabelas associativas
+
+#### Tabela Compra_Jogos
+
+<img src="https://github.com/kelvin-hey/banco-de-dados-loja-de-games/blob/main/compra_jogos.png"></a>
+
+#### Tabela Compra_Consoles
+
+<img src="https://github.com/kelvin-hey/banco-de-dados-loja-de-games/blob/main/compra_consoles.png"></a>
+
+#### Tabela Compra_Perifericos
+
+<img src="https://github.com/kelvin-hey/banco-de-dados-loja-de-games/blob/main/compra_perifericos.png"></a>
+
+#### Tabela Emprestimo_Jogos
+
+<img src="https://github.com/kelvin-hey/banco-de-dados-loja-de-games/blob/main/emprestimo_jogos.png"></a>
