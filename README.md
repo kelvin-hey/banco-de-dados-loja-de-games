@@ -1,6 +1,6 @@
-<h2 align="center"><b>Modelagem de banco de dados para uma Loja de Games</b></h2>
-
-<img src="https://github.com/kelvin-hey/banco-de-dados-loja-de-games/blob/main/banner.png"/>
+<p align="center">
+  <img src="https://github.com/kelvin-hey/banco-de-dados-loja-de-games/blob/main/banner.png"/>
+</p>
 
 ### Descrição
 Este repositório contém a modelagem de banco de dados utilizados no desenvolvimento de um sistema para uma Loja de Games.
