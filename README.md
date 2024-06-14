@@ -1,5 +1,11 @@
 <p align="center">
-  <img src="https://github.com/kelvin-hey/banco-de-dados-loja-de-games/blob/main/banner.png"/>
+  <img height="128px" src="https://github.com/kelvin-hey/banco-de-dados-loja-de-games/blob/main/banner.png"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/last-commit/kelvin-hey/banco-de-dados-loja-de-games">
+  <img src="https://img.shields.io/github/license/kelvin-hey/banco-de-dados-loja-de-games">
+  <img src="https://img.shields.io/github/repo-size/kelvin-hey/banco-de-dados-loja-de-games">
 </p>
 
 ### Descrição
