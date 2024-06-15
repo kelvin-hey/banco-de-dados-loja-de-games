@@ -8,6 +8,10 @@
   <img src="https://img.shields.io/github/repo-size/kelvin-hey/banco-de-dados-loja-de-games">
 </p>
 
+<p align="center">
+  <img src="https://github.com/kelvin-hey/kelvin-hey/blob/main/assets/line.png"/>
+</p>
+
 ### Descrição
 Este repositório contém a modelagem de banco de dados utilizados no desenvolvimento de um sistema para uma Loja de Games.
 
